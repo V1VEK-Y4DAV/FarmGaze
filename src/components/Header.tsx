@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { Button } from "./ui/button";
 import { ModeToggle } from "./ui/mode-toggle";
 import { Sheet, SheetContent, SheetTrigger } from "./ui/sheet";
-import { Menu, Info, Cloud, ShoppingCart, MapPin, Home, MessageCircle } from "lucide-react";
+import { Menu, Info, Cloud, ShoppingCart, MapPin, Home } from "lucide-react";
 import { useState, useCallback, useMemo, memo } from "react";
 
 // Optimized navigation item component with memo to prevent re-renders
@@ -50,7 +50,6 @@ const Header = () => {
     { icon: <Cloud size={18} />, text: "Weather", to: "/weather" },
     { icon: <Info size={18} />, text: "Information", to: "/information" },
     { icon: <ShoppingCart size={18} />, text: "Products", to: "/products" },
-    { icon: <MessageCircle size={18} />, text: "Chatbot", to: "/chatbot" },
   ], []);
 
   const headerItems = useMemo(() => [

@@ -1,4 +1,4 @@
-import { Info, Cloud, ShoppingCart, MapPin, Home, MessageCircle, Brain, Heart } from "lucide-react";
+import { Info, Cloud, ShoppingCart, MapPin, Home, MessageCircle, Brain } from "lucide-react";
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { useLanguage } from "@/contexts/LanguageContext";
@@ -34,7 +34,6 @@ const Sidebar = () => {
           <SidebarItem icon={<ShoppingCart size={18} />} text={t.common.products} to="/products" />
           <SidebarItem icon={<Brain size={18} />} text={t.common.aiRecommendation} to="/ai-recommendation" />
           <SidebarItem icon={<MessageCircle size={18} />} text={t.common.chatbot} to="/chatbot" />
-          <SidebarItem icon={<Heart size={18} />} text={t.common.careCure} to="/care-cure" />
         </ul>
       </nav>
       <div className="p-4 text-gray-500 dark:text-gray-400 text-xs border-t border-gray-100 dark:border-gray-700">

@@ -18,7 +18,6 @@ export interface Translations {
     information: string;
     chatbot: string;
     aiRecommendation: string;
-    careCure: string;
   };
   
   // Home page
@@ -115,7 +114,6 @@ const enTranslations: Translations = {
     information: "Information",
     chatbot: "Chatbot",
     aiRecommendation: "AI Recommendation",
-    careCure: "Care&Cure",
   },
   home: {
     title: "Smart Irrigation for Precision Farming",
@@ -208,7 +206,6 @@ const hiTranslations: Translations = {
     information: "जानकारी",
     chatbot: "चैटबॉट",
     aiRecommendation: "एआई अनुशंसा",
-    careCure: "देखभाल और उपचार",
   },
   home: {
     title: "सटीक खेती के लिए स्मार्ट सिंचाई",

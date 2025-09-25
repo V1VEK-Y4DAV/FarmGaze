@@ -55,7 +55,7 @@ const AIRecommendation = () => {
   const [nativeOnly, setNativeOnly] = useState<boolean>(true);
 
   // API base URL - Enhanced seasonal API with improved recommendations
-  const API_BASE = 'http://localhost:5004';
+  const API_BASE = 'http://localhost:5003';
 
   // Check API health on component mount
   useEffect(() => {
@@ -190,7 +190,7 @@ const AIRecommendation = () => {
         <Alert className="mb-6 border-red-200 bg-red-50">
           <AlertCircle className="h-4 w-4 text-red-600" />
           <AlertDescription className="text-red-700">
-            Unable to connect to the AI recommendation service. Please ensure the Flask API is running on port 5004.
+            Unable to connect to the AI recommendation service. Please ensure the Flask API is running on port 5003.
           </AlertDescription>
         </Alert>
       )}

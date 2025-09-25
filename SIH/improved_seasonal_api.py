@@ -910,5 +910,7 @@ def native():
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
-    logger.info("Starting Enhanced Seasonal Crop Recommendation API...")
-    app.run(host='0.0.0.0', port=5004, debug=True)
+    import os
+    port = int(os.environ.get('PORT', 5003))
+    logger.info(f"Starting Enhanced Seasonal Crop Recommendation API on port {port}...")
+    app.run(host='0.0.0.0', port=port, debug=True)

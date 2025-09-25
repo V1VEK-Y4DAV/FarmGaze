@@ -10,7 +10,6 @@ import Contact from "@/pages/Contact";
 import NotFound from "@/pages/NotFound";
 import Chatbot from "@/pages/Chatbot";
 import AIRecommendation from "@/pages/AIRecommendation.tsx";
-import CareCure from "@/pages/CareCure.tsx";
 
 
 const AppRoutes = () => {
@@ -27,7 +26,6 @@ const AppRoutes = () => {
       <Route path="/products" element={<Products />} />
       <Route path="/ai-recommendation" element={<AIRecommendation />} />
       <Route path="/chatbot" element={<Chatbot />} />
-      <Route path="/care-cure" element={<CareCure />} />
       <Route path="/services" element={<Services />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="*" element={<NotFound />} />
