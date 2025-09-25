@@ -1,0 +1,12 @@
+{
+  "generated_at": "2025-09-21T19:26:10.527663",
+  "total_states": 20,
+  "total_districts": 560,
+  "total_predictions": 8400,
+  "seasons_covered": [
+    "kharif",
+    "rabi",
+    "zaid"
+  ],
+  "crops_per_season": 5
+}

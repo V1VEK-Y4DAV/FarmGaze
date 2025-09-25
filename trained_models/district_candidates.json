@@ -1,0 +1,5467 @@
+{
+  "Andhra Pradesh": {
+    "Anantapur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mothbeans",
+      "mango",
+      "papaya"
+    ],
+    "Chittoor": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "kidneybeans",
+      "coffee"
+    ],
+    "East Godavari": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "cotton",
+      "kidneybeans",
+      "orange",
+      "jute"
+    ],
+    "Guntur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "lentil",
+      "banana",
+      "cotton",
+      "coffee"
+    ],
+    "Kadapa YSR": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "mango",
+      "coconut"
+    ],
+    "Krishna": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "banana",
+      "mango",
+      "apple",
+      "cotton"
+    ],
+    "Kurnool": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "muskmelon",
+      "coffee"
+    ],
+    "Prakasam": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans"
+    ],
+    "S.P.S. Nellore": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "papaya",
+      "jute"
+    ],
+    "Srikakulam": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "papaya",
+      "lentil",
+      "orange",
+      "jute"
+    ],
+    "Visakhapatnam": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "pomegranate",
+      "banana",
+      "orange"
+    ],
+    "Vizianagaram": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "kidneybeans",
+      "blackgram",
+      "grapes",
+      "muskmelon",
+      "papaya",
+      "cotton"
+    ],
+    "West Godavari": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "blackgram",
+      "lentil",
+      "mango",
+      "jute"
+    ]
+  },
+  "Assam": {
+    "Baksa": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "cotton"
+    ],
+    "Barpeta": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "mothbeans",
+      "cotton"
+    ],
+    "Bongaigaon": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "pigeonpeas",
+      "maize"
+    ],
+    "Cachar": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "muskmelon"
+    ],
+    "Chirang": [
+      "chickpea",
+      "rice",
+      "sugarcane",
+      "kidneybeans",
+      "blackgram",
+      "jute"
+    ],
+    "Darrang": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "pomegranate",
+      "mango",
+      "jute"
+    ],
+    "Dhemaji": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "mothbeans",
+      "banana",
+      "watermelon",
+      "apple",
+      "jute",
+      "coffee"
+    ],
+    "Dhubri": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "mothbeans",
+      "orange",
+      "cotton"
+    ],
+    "Dibrugarh": [
+      "chickpea",
+      "rice",
+      "sugarcane",
+      "blackgram",
+      "cotton"
+    ],
+    "Goalpara": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "pomegranate"
+    ],
+    "Golaghat": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "pomegranate",
+      "pigeonpeas",
+      "mothbeans",
+      "grapes",
+      "coffee"
+    ],
+    "Hailakandi": [
+      "rice",
+      "sugarcane",
+      "maize",
+      "kidneybeans",
+      "pigeonpeas",
+      "pomegranate",
+      "cotton"
+    ],
+    "Jorhat": [
+      "chickpea",
+      "rice",
+      "sugarcane",
+      "mothbeans",
+      "pomegranate",
+      "jute"
+    ],
+    "Kamrup": [
+      "chickpea",
+      "rice",
+      "sugarcane",
+      "apple",
+      "orange"
+    ],
+    "Kamrup (Metro)": [
+      "rice",
+      "sugarcane",
+      "pigeonpeas",
+      "blackgram",
+      "lentil",
+      "coconut"
+    ],
+    "Karbi Anglong": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "orange"
+    ],
+    "Karimganj": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "mungbean",
+      "banana"
+    ],
+    "Kokrajhar": [
+      "chickpea",
+      "rice",
+      "sugarcane",
+      "mungbean",
+      "pomegranate",
+      "apple"
+    ],
+    "Lakhimpur": [
+      "rice",
+      "chickpea",
+      "sugarcane"
+    ],
+    "Marigaon": [
+      "chickpea",
+      "rice",
+      "sugarcane",
+      "pomegranate",
+      "mango",
+      "watermelon",
+      "apple",
+      "coffee"
+    ],
+    "Nagaon": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "blackgram",
+      "banana",
+      "apple"
+    ],
+    "Nalbari": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "mango"
+    ],
+    "North Cachar Hil": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "banana",
+      "watermelon",
+      "orange",
+      "coffee"
+    ],
+    "Sibsagar": [
+      "chickpea",
+      "rice",
+      "sugarcane",
+      "pomegranate",
+      "jute",
+      "coffee"
+    ],
+    "Sonitpur": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "jute"
+    ],
+    "Tinsukia": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "coconut",
+      "mungbean",
+      "mango",
+      "orange",
+      "papaya"
+    ],
+    "Udalguri": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "blackgram",
+      "grapes",
+      "papaya",
+      "coconut"
+    ]
+  },
+  "Bihar": {
+    "Araria": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "watermelon",
+      "apple",
+      "orange",
+      "papaya"
+    ],
+    "Arwal": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mungbean",
+      "pomegranate",
+      "watermelon"
+    ],
+    "Aurangabad": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "mango",
+      "orange"
+    ],
+    "Banka": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "apple",
+      "coconut"
+    ],
+    "Begusarai": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coconut"
+    ],
+    "Bhabhua / Kaimur": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "sugarcane",
+      "mothbeans",
+      "cotton",
+      "coffee"
+    ],
+    "Bhagalpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "maize",
+      "mothbeans",
+      "blackgram",
+      "pomegranate",
+      "grapes",
+      "orange",
+      "papaya",
+      "coconut"
+    ],
+    "Bhojpur": [
+      "rice",
+      "chickpea",
+      "pearl_millet",
+      "sugarcane",
+      "blackgram"
+    ],
+    "Buxar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "lentil",
+      "orange",
+      "papaya"
+    ],
+    "Champaran (East)": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane"
+    ],
+    "Champaran (West)": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "mango",
+      "apple",
+      "cotton"
+    ],
+    "Darbhanga": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "jute"
+    ],
+    "Gaya": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "maize",
+      "banana",
+      "papaya"
+    ],
+    "Gopalganj": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "apple"
+    ],
+    "Jamui": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "apple",
+      "mothbeans",
+      "lentil",
+      "orange",
+      "papaya",
+      "cotton"
+    ],
+    "Jehanabad": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "apple",
+      "grapes",
+      "coconut"
+    ],
+    "Katihar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "apple",
+      "lentil"
+    ],
+    "Khagaria": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "lentil",
+      "pomegranate",
+      "watermelon",
+      "coconut"
+    ],
+    "Kishanganj": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "pomegranate",
+      "mango",
+      "coconut",
+      "cotton",
+      "coffee"
+    ],
+    "Lakhisarai": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "watermelon",
+      "pigeonpeas",
+      "mungbean",
+      "lentil",
+      "banana"
+    ],
+    "Madhepura": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mungbean",
+      "banana"
+    ],
+    "Madhubani": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "blackgram",
+      "grapes",
+      "papaya",
+      "coconut"
+    ],
+    "Mungair": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "orange",
+      "papaya",
+      "coffee"
+    ],
+    "Muzaffarpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "coconut",
+      "grapes",
+      "apple",
+      "papaya",
+      "jute"
+    ],
+    "Nalanda": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "mothbeans",
+      "blackgram",
+      "pomegranate",
+      "mango",
+      "orange"
+    ],
+    "Nawada": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "muskmelon",
+      "lentil",
+      "grapes",
+      "watermelon"
+    ],
+    "Patna": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "lentil",
+      "mango"
+    ],
+    "Purnea": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "coffee"
+    ],
+    "Rohtas": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "lentil"
+    ],
+    "Saharsa": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "pigeonpeas",
+      "cotton"
+    ],
+    "Samastipur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "banana",
+      "mango",
+      "watermelon",
+      "coffee"
+    ],
+    "Saran": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "mothbeans",
+      "muskmelon",
+      "apple",
+      "coffee"
+    ],
+    "Sheikapura": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "mungbean",
+      "maize",
+      "kidneybeans"
+    ],
+    "Sheohar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "watermelon",
+      "cotton"
+    ],
+    "Sitamarhi": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "cotton",
+      "jute"
+    ],
+    "Siwan": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "pigeonpeas",
+      "mothbeans",
+      "banana",
+      "watermelon"
+    ],
+    "Supaul": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "watermelon",
+      "cotton"
+    ],
+    "Vaishali": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "sugarcane",
+      "maize",
+      "kidneybeans",
+      "mothbeans",
+      "pomegranate",
+      "cotton"
+    ]
+  },
+  "Chhattisgarh": {
+    "Balod": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "kidneybeans",
+      "pigeonpeas"
+    ],
+    "Baloda Bazar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "muskmelon",
+      "orange"
+    ],
+    "Balrampur": [
+      "chickpea",
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "apple",
+      "cotton"
+    ],
+    "Bastar": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "kidneybeans",
+      "mungbean",
+      "coconut"
+    ],
+    "Bemetra": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "watermelon"
+    ],
+    "Bijapur": [
+      "rice",
+      "groundnut",
+      "mothbeans",
+      "lentil",
+      "banana",
+      "apple",
+      "coconut",
+      "jute",
+      "coffee"
+    ],
+    "Bilaspur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "grapes",
+      "coffee"
+    ],
+    "Dantewara": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "maize",
+      "mothbeans",
+      "orange"
+    ],
+    "Dhamtari": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "coconut",
+      "cotton",
+      "jute"
+    ],
+    "Durg": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "blackgram",
+      "papaya",
+      "cotton"
+    ],
+    "Gariaband": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "blackgram",
+      "cotton"
+    ],
+    "Janjgir": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "muskmelon"
+    ],
+    "Jashpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "cotton",
+      "watermelon"
+    ],
+    "Kanker": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "lentil",
+      "banana",
+      "mango",
+      "apple",
+      "coconut"
+    ],
+    "Kawardha": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "orange",
+      "jute"
+    ],
+    "Kondagaon": [
+      "chickpea",
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "apple"
+    ],
+    "Korba": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "kidneybeans",
+      "mungbean",
+      "grapes",
+      "watermelon",
+      "muskmelon",
+      "coffee"
+    ],
+    "Koriya": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "maize",
+      "banana",
+      "cotton"
+    ],
+    "Mahasmund": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "jute"
+    ],
+    "Mungli": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "watermelon"
+    ],
+    "Narayanpur": [
+      "rice",
+      "chickpea",
+      "kidneybeans",
+      "maize",
+      "pigeonpeas",
+      "mothbeans",
+      "watermelon"
+    ],
+    "Raigarh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mothbeans",
+      "apple",
+      "papaya",
+      "cotton"
+    ],
+    "Raipur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "banana",
+      "grapes",
+      "watermelon"
+    ],
+    "Rajnandgaon": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "cotton",
+      "pigeonpeas",
+      "mungbean",
+      "lentil",
+      "watermelon"
+    ],
+    "Sukma": [
+      "rice",
+      "sugarcane",
+      "pigeonpeas",
+      "mothbeans"
+    ],
+    "Surajpur": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mothbeans",
+      "pomegranate",
+      "mango",
+      "grapes",
+      "muskmelon"
+    ],
+    "Surguja": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "pigeonpeas",
+      "mothbeans",
+      "blackgram",
+      "apple",
+      "orange"
+    ]
+  },
+  "Gujarat": {
+    "Ahmedabad": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "orange",
+      "coconut",
+      "jute"
+    ],
+    "Amreli": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mungbean"
+    ],
+    "Anand": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coconut"
+    ],
+    "Aravalli": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "pigeonpeas",
+      "grapes"
+    ],
+    "Banaskantha": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pigeonpeas",
+      "mungbean",
+      "pomegranate",
+      "banana",
+      "grapes",
+      "muskmelon",
+      "coffee"
+    ],
+    "Bharuch": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "papaya",
+      "cotton"
+    ],
+    "Bhavnagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "watermelon"
+    ],
+    "Botad": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "mungbean"
+    ],
+    "Chhota Udaipur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut"
+    ],
+    "Dahod": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "maize",
+      "blackgram",
+      "watermelon",
+      "apple"
+    ],
+    "Dangs": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "cotton"
+    ],
+    "Devbhoomi Dwarka": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "rice",
+      "watermelon",
+      "papaya"
+    ],
+    "Gandhinagar": [
+      "rice",
+      "chickpea",
+      "pearl_millet",
+      "groundnut",
+      "kidneybeans",
+      "pigeonpeas",
+      "mungbean",
+      "lentil",
+      "watermelon",
+      "muskmelon",
+      "orange",
+      "coconut"
+    ],
+    "Gir Somnath": [
+      "chickpea",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mungbean",
+      "lentil",
+      "banana",
+      "watermelon",
+      "coconut",
+      "jute"
+    ],
+    "Jamnagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean"
+    ],
+    "Junagadh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "orange",
+      "papaya"
+    ],
+    "Kheda": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "pigeonpeas",
+      "blackgram",
+      "lentil"
+    ],
+    "Kutch": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "apple",
+      "orange",
+      "cotton"
+    ],
+    "Mahisagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "coconut"
+    ],
+    "Mehsana": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "grapes",
+      "muskmelon",
+      "coconut",
+      "cotton"
+    ],
+    "Morbi": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean"
+    ],
+    "Narmada": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "orange"
+    ],
+    "Navsari": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "watermelon",
+      "papaya",
+      "coffee"
+    ],
+    "Panchmahal": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "watermelon",
+      "apple",
+      "orange",
+      "papaya",
+      "coffee"
+    ],
+    "Patan": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "maize",
+      "muskmelon",
+      "apple",
+      "coffee"
+    ],
+    "Porbandar": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "rice",
+      "maize",
+      "grapes",
+      "coconut",
+      "cotton",
+      "coffee"
+    ],
+    "Rajkot": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "blackgram",
+      "apple",
+      "papaya",
+      "cotton"
+    ],
+    "Sabarkantha": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "pomegranate",
+      "cotton"
+    ],
+    "Surat": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "muskmelon",
+      "coconut",
+      "jute"
+    ],
+    "Surendranagar": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans"
+    ],
+    "Tapi": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "mungbean",
+      "blackgram"
+    ],
+    "Vadodara": [
+      "rice",
+      "chickpea",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mango"
+    ],
+    "Valsad": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "blackgram",
+      "orange"
+    ]
+  },
+  "Haryana": {
+    "Ambala": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "grapes",
+      "cotton"
+    ],
+    "Bhiwani": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "jute",
+      "watermelon"
+    ],
+    "Faridabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "papaya",
+      "coconut"
+    ],
+    "Fatehabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "banana",
+      "mango",
+      "coconut"
+    ],
+    "Gurgaon": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "papaya"
+    ],
+    "Hissar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "orange"
+    ],
+    "Jhajjar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "orange",
+      "jute"
+    ],
+    "Jind": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "sugarcane",
+      "mungbean"
+    ],
+    "Kaithal": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "sugarcane",
+      "kidneybeans",
+      "pigeonpeas",
+      "blackgram"
+    ],
+    "Karnal": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "sugarcane",
+      "mango",
+      "mungbean",
+      "muskmelon"
+    ],
+    "Kurukshetra": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "maize",
+      "mothbeans",
+      "pomegranate",
+      "coconut",
+      "jute"
+    ],
+    "Mahendragarh": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "pomegranate",
+      "apple",
+      "orange",
+      "coconut"
+    ],
+    "Mewat": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "lentil",
+      "kidneybeans",
+      "pigeonpeas",
+      "mothbeans",
+      "muskmelon",
+      "coconut",
+      "coffee"
+    ],
+    "Palwal": [
+      "rice",
+      "pearl_millet",
+      "sugarcane",
+      "muskmelon"
+    ],
+    "Panchkula": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "pigeonpeas",
+      "banana",
+      "grapes"
+    ],
+    "Panipat": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "grapes"
+    ],
+    "Rewari": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "grapes"
+    ],
+    "Rohtak": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mungbean",
+      "apple",
+      "orange"
+    ],
+    "Sirsa": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "grapes",
+      "muskmelon",
+      "coconut"
+    ],
+    "Sonepat": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "lentil",
+      "watermelon",
+      "orange"
+    ],
+    "Yamunanagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "orange",
+      "pigeonpeas",
+      "coconut"
+    ]
+  },
+  "Himachal Pradesh": {
+    "Bilashpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mothbeans",
+      "pomegranate",
+      "apple",
+      "papaya",
+      "coconut"
+    ],
+    "Chamba": [
+      "rice",
+      "pearl_millet",
+      "chickpea"
+    ],
+    "Hamirpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "watermelon",
+      "cotton"
+    ],
+    "Kangra": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "pomegranate",
+      "papaya"
+    ],
+    "Kinnaur": [
+      "rice",
+      "pearl_millet",
+      "mungbean",
+      "lentil",
+      "mango",
+      "papaya"
+    ],
+    "Kullu": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "maize",
+      "mothbeans",
+      "banana",
+      "jute"
+    ],
+    "Lahul & Spiti": [
+      "maize",
+      "rice",
+      "wheat",
+      "mothbeans",
+      "blackgram",
+      "lentil"
+    ],
+    "Mandi": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "pomegranate",
+      "grapes",
+      "muskmelon",
+      "jute"
+    ],
+    "Shimla": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pigeonpeas",
+      "muskmelon",
+      "apple"
+    ],
+    "Sirmaur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "jute"
+    ],
+    "Solan": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "orange",
+      "papaya",
+      "cotton"
+    ],
+    "Una": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "jute",
+      "maize",
+      "lentil",
+      "mango"
+    ]
+  },
+  "Jharkhand": {
+    "Bokaro": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mothbeans",
+      "pomegranate",
+      "watermelon"
+    ],
+    "Chatra": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mungbean",
+      "blackgram"
+    ],
+    "Devghar / Deogarh": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "maize"
+    ],
+    "Dhanbad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "maize",
+      "kidneybeans",
+      "lentil"
+    ],
+    "Gadva / Garhwa": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "banana",
+      "papaya"
+    ],
+    "Giridih": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "lentil",
+      "grapes"
+    ],
+    "Godda": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "kidneybeans",
+      "mothbeans",
+      "mungbean",
+      "lentil",
+      "cotton"
+    ],
+    "Gumla": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "watermelon",
+      "coconut",
+      "cotton"
+    ],
+    "Hazaribagh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "kidneybeans",
+      "mungbean",
+      "apple",
+      "orange",
+      "coconut"
+    ],
+    "Jamtara": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "watermelon",
+      "apple",
+      "coffee"
+    ],
+    "Khodrama / Koderma": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "maize",
+      "coffee"
+    ],
+    "Khunti": [
+      "rice",
+      "chickpea",
+      "kidneybeans",
+      "lentil"
+    ],
+    "Latehar": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "maize",
+      "pomegranate",
+      "papaya"
+    ],
+    "Lohardagga": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "muskmelon"
+    ],
+    "Pakund / Pakur": [
+      "chickpea",
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "watermelon",
+      "papaya",
+      "jute",
+      "coffee"
+    ],
+    "Palamau": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mungbean",
+      "blackgram"
+    ],
+    "Ramgadh": [
+      "rice",
+      "chickpea",
+      "maize",
+      "kidneybeans",
+      "mothbeans",
+      "mungbean",
+      "orange"
+    ],
+    "Ranchi": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pigeonpeas",
+      "mungbean"
+    ],
+    "Sahebganj": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "mango",
+      "maize",
+      "mungbean",
+      "watermelon",
+      "papaya"
+    ],
+    "Santhal Paragana / Dumka": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "mothbeans",
+      "blackgram",
+      "pomegranate",
+      "mango"
+    ],
+    "Sariakela / Kharsawan": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "blackgram",
+      "lentil",
+      "mango",
+      "apple",
+      "papaya"
+    ],
+    "Simdega": [
+      "chickpea",
+      "rice",
+      "grapes",
+      "kidneybeans",
+      "lentil",
+      "pomegranate",
+      "watermelon",
+      "muskmelon",
+      "papaya",
+      "cotton"
+    ],
+    "Singhbhum East": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "sugarcane",
+      "pomegranate",
+      "papaya",
+      "jute"
+    ],
+    "Singhbhum West": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coffee",
+      "pigeonpeas",
+      "blackgram"
+    ]
+  },
+  "Karnataka": {
+    "Bagalkote": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "kidneybeans",
+      "muskmelon",
+      "apple",
+      "coconut"
+    ],
+    "Bangalore (Rural)": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean"
+    ],
+    "Bangalore (Urban)": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mothbeans",
+      "mungbean",
+      "orange",
+      "papaya",
+      "cotton"
+    ],
+    "Belgaum": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "grapes",
+      "apple",
+      "coffee"
+    ],
+    "Bellary": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "pomegranate",
+      "orange"
+    ],
+    "Bidar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "apple"
+    ],
+    "Bijapur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "jute",
+      "coffee"
+    ],
+    "Chamaraja Nagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "apple",
+      "coffee"
+    ],
+    "Chickmagalur": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mothbeans",
+      "banana",
+      "mango"
+    ],
+    "Chikkaballapur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "coconut",
+      "coffee"
+    ],
+    "Chitradurga": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "watermelon",
+      "papaya",
+      "coffee"
+    ],
+    "Dakshina Kannada": [
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "coffee",
+      "lentil",
+      "pomegranate",
+      "banana",
+      "coconut"
+    ],
+    "Davanagere": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "lentil",
+      "banana",
+      "grapes",
+      "muskmelon",
+      "orange"
+    ],
+    "Dharwad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "watermelon",
+      "orange"
+    ],
+    "Gadag": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "mungbean",
+      "blackgram",
+      "apple",
+      "jute"
+    ],
+    "Gulbarga": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "kidneybeans",
+      "coconut"
+    ],
+    "Hassan": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "pigeonpeas",
+      "pomegranate",
+      "muskmelon",
+      "cotton"
+    ],
+    "Haveri": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "coconut"
+    ],
+    "Kodagu": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "muskmelon"
+    ],
+    "Kolar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans"
+    ],
+    "Koppal": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "pomegranate",
+      "muskmelon"
+    ],
+    "Mandya": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "jute"
+    ],
+    "Mysore": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "grapes"
+    ],
+    "Raichur": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "coffee"
+    ],
+    "Ramanagaram": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "grapes",
+      "orange"
+    ],
+    "Shimoge": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "apple",
+      "jute"
+    ],
+    "Tumkur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coconut",
+      "maize"
+    ],
+    "Udupi": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "papaya",
+      "pigeonpeas",
+      "mungbean",
+      "grapes",
+      "muskmelon",
+      "coconut",
+      "coffee"
+    ],
+    "Uttara Kannada": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mungbean",
+      "cotton"
+    ],
+    "Yadagiri": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "coffee",
+      "mothbeans",
+      "mango",
+      "watermelon"
+    ]
+  },
+  "Kerala": {
+    "Alappuzha": [
+      "rice",
+      "sugarcane",
+      "blackgram",
+      "pigeonpeas",
+      "mothbeans",
+      "mango",
+      "grapes",
+      "cotton",
+      "coffee"
+    ],
+    "Eranakulam": [
+      "rice",
+      "sugarcane",
+      "pigeonpeas",
+      "grapes",
+      "cotton"
+    ],
+    "Idukki": [
+      "rice",
+      "sugarcane",
+      "blackgram",
+      "mango"
+    ],
+    "Kannur": [
+      "rice",
+      "sugarcane",
+      "pomegranate",
+      "watermelon",
+      "coconut",
+      "cotton",
+      "jute"
+    ],
+    "Kasaragod": [
+      "rice",
+      "groundnut",
+      "sugarcane"
+    ],
+    "Kollam": [
+      "rice",
+      "sugarcane",
+      "pigeonpeas",
+      "orange"
+    ],
+    "Kottayam": [
+      "rice",
+      "sugarcane",
+      "chickpea",
+      "mungbean",
+      "mango",
+      "coffee"
+    ],
+    "Kozhikode": [
+      "rice",
+      "sugarcane",
+      "chickpea",
+      "kidneybeans",
+      "mothbeans",
+      "apple"
+    ],
+    "Malappuram": [
+      "rice",
+      "sugarcane",
+      "mungbean",
+      "blackgram"
+    ],
+    "Palakkad": [
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "apple",
+      "coconut"
+    ],
+    "Pathanamthitta": [
+      "rice",
+      "sugarcane",
+      "maize",
+      "mothbeans",
+      "mungbean",
+      "banana",
+      "mango",
+      "muskmelon"
+    ],
+    "Thiruvananthapuram": [
+      "rice",
+      "groundnut",
+      "mungbean"
+    ],
+    "Thrissur": [
+      "rice",
+      "sugarcane",
+      "mungbean",
+      "grapes",
+      "orange",
+      "papaya"
+    ],
+    "Wayanad": [
+      "rice",
+      "sugarcane",
+      "mungbean",
+      "maize",
+      "pigeonpeas",
+      "mango",
+      "grapes",
+      "orange",
+      "coffee"
+    ]
+  },
+  "Madhya Pradesh": {
+    "Agar Malwa": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mungbean",
+      "blackgram",
+      "muskmelon"
+    ],
+    "Alirajpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coffee",
+      "grapes",
+      "cotton"
+    ],
+    "Anuppur": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "pomegranate",
+      "grapes",
+      "watermelon",
+      "muskmelon",
+      "coconut"
+    ],
+    "Ashoknagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "banana",
+      "watermelon"
+    ],
+    "Balaghat": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "cotton"
+    ],
+    "Barwani": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mango",
+      "grapes",
+      "coffee"
+    ],
+    "Betul": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "jute"
+    ],
+    "Bhind": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "jute"
+    ],
+    "Bhopal": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "pigeonpeas",
+      "pomegranate",
+      "mango",
+      "muskmelon",
+      "apple"
+    ],
+    "Burhanpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram"
+    ],
+    "Chhatarpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "maize",
+      "pigeonpeas",
+      "blackgram",
+      "muskmelon"
+    ],
+    "Chhindwara": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "pomegranate",
+      "muskmelon",
+      "papaya"
+    ],
+    "Damoh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "mango",
+      "maize",
+      "pigeonpeas",
+      "mungbean",
+      "coffee"
+    ],
+    "Datia": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "banana"
+    ],
+    "Dewas": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "apple",
+      "coconut"
+    ],
+    "Dhar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "cotton",
+      "mungbean",
+      "mango",
+      "watermelon",
+      "muskmelon",
+      "apple"
+    ],
+    "Dindori": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "pigeonpeas",
+      "mothbeans"
+    ],
+    "Guna": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "banana",
+      "watermelon"
+    ],
+    "Gwalior": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "watermelon",
+      "muskmelon"
+    ],
+    "Harda": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "jute",
+      "pigeonpeas"
+    ],
+    "Hoshangabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "papaya",
+      "coffee"
+    ],
+    "Indore": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "blackgram",
+      "grapes"
+    ],
+    "Jabalpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coffee",
+      "pomegranate",
+      "banana",
+      "coconut"
+    ],
+    "Jhabua": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane"
+    ],
+    "Katni": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pomegranate",
+      "cotton"
+    ],
+    "Khandwa": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pigeonpeas",
+      "papaya"
+    ],
+    "Khargone": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "blackgram",
+      "lentil",
+      "pomegranate",
+      "cotton"
+    ],
+    "Mandla": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize"
+    ],
+    "Mandsaur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "watermelon",
+      "muskmelon",
+      "papaya",
+      "jute"
+    ],
+    "Morena": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "banana"
+    ],
+    "Narsinghpur": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mothbeans"
+    ],
+    "Neemuch": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "coffee"
+    ],
+    "Panna": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "grapes"
+    ],
+    "Raisen": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "apple",
+      "papaya",
+      "coffee"
+    ],
+    "Rajgarh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "mungbean"
+    ],
+    "Ratlam": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "muskmelon",
+      "coconut",
+      "coffee"
+    ],
+    "Rewa": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "watermelon",
+      "coconut"
+    ],
+    "Sagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "apple",
+      "mungbean"
+    ],
+    "Satna": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "blackgram",
+      "lentil",
+      "coconut"
+    ],
+    "Sehore": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "watermelon",
+      "cotton",
+      "coffee"
+    ],
+    "Seoni": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "papaya",
+      "mango"
+    ],
+    "Shahdol": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "mungbean",
+      "coffee"
+    ],
+    "Shajapur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "grapes",
+      "muskmelon",
+      "papaya",
+      "coffee"
+    ],
+    "Sheopur Kalan": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "blackgram",
+      "banana",
+      "cotton"
+    ],
+    "Shivpuri": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "apple",
+      "coconut",
+      "cotton"
+    ],
+    "Sidhi": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "blackgram",
+      "pomegranate",
+      "grapes",
+      "muskmelon"
+    ],
+    "Singrauli": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "blackgram",
+      "lentil",
+      "watermelon",
+      "muskmelon",
+      "coffee"
+    ],
+    "Tikamgarh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "pomegranate"
+    ],
+    "Ujjain": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "papaya",
+      "coconut"
+    ],
+    "Umaria": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "blackgram",
+      "muskmelon"
+    ],
+    "Vidisha": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "kidneybeans",
+      "banana",
+      "papaya"
+    ]
+  },
+  "Maharashtra": {
+    "Ahmednagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "watermelon"
+    ],
+    "Akola": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mango"
+    ],
+    "Amarawati": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mothbeans",
+      "banana",
+      "apple",
+      "papaya",
+      "coffee"
+    ],
+    "Aurangabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "blackgram",
+      "banana",
+      "grapes",
+      "jute"
+    ],
+    "Beed": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "papaya",
+      "blackgram",
+      "banana",
+      "mango",
+      "watermelon",
+      "apple",
+      "coffee"
+    ],
+    "Bhandara": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans"
+    ],
+    "Buldhana": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "jute",
+      "grapes",
+      "muskmelon"
+    ],
+    "Chandrapur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mango"
+    ],
+    "Dhule": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "watermelon"
+    ],
+    "Gadchiroli": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "blackgram",
+      "mango",
+      "jute"
+    ],
+    "Gondia": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "muskmelon",
+      "coffee"
+    ],
+    "Hingoli": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "cotton"
+    ],
+    "Jalgaon": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mothbeans",
+      "pomegranate",
+      "jute"
+    ],
+    "Jalna": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "kidneybeans",
+      "papaya",
+      "jute"
+    ],
+    "Kolhapur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "jute"
+    ],
+    "Latur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "banana",
+      "grapes",
+      "watermelon",
+      "muskmelon",
+      "apple",
+      "orange"
+    ],
+    "Mumbai City": [
+      "rice",
+      "pigeonpeas",
+      "pomegranate",
+      "mango",
+      "apple"
+    ],
+    "Mumbai sub": [
+      "rice",
+      "wheat",
+      "maize",
+      "pigeonpeas"
+    ],
+    "Nagpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "blackgram",
+      "pomegranate",
+      "papaya",
+      "coconut"
+    ],
+    "Nanded": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "mango",
+      "muskmelon",
+      "cotton",
+      "coffee"
+    ],
+    "Nandurbar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "orange",
+      "banana",
+      "mango",
+      "apple",
+      "coffee"
+    ],
+    "Nasik": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "mango",
+      "muskmelon"
+    ],
+    "Osmanabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mothbeans",
+      "muskmelon",
+      "papaya"
+    ],
+    "Palghar": [
+      "chickpea",
+      "grapes",
+      "orange",
+      "rice",
+      "groundnut"
+    ],
+    "Parbhani": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "papaya",
+      "pigeonpeas",
+      "lentil",
+      "orange",
+      "cotton",
+      "coffee"
+    ],
+    "Pune": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "lentil",
+      "muskmelon",
+      "coconut",
+      "coffee"
+    ],
+    "Raigad": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "mothbeans",
+      "mango",
+      "grapes",
+      "muskmelon",
+      "jute"
+    ],
+    "Ratnagiri": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "blackgram",
+      "grapes",
+      "coffee"
+    ],
+    "Sangli": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "orange",
+      "cotton"
+    ],
+    "Satara": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "muskmelon",
+      "apple"
+    ],
+    "Sindhudurg": [
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "kidneybeans",
+      "jute"
+    ],
+    "Solapur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "mango",
+      "apple"
+    ],
+    "Thane": [
+      "chickpea",
+      "rice",
+      "groundnut",
+      "maize",
+      "kidneybeans",
+      "mothbeans",
+      "mungbean",
+      "jute"
+    ],
+    "Wardha": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mungbean",
+      "coconut"
+    ],
+    "Washim": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mothbeans",
+      "blackgram",
+      "grapes",
+      "watermelon"
+    ],
+    "Yeotmal": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "maize",
+      "banana",
+      "cotton"
+    ]
+  },
+  "Orissa": {
+    "Angul": [
+      "chickpea",
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "jute",
+      "banana"
+    ],
+    "Balasore": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize"
+    ],
+    "Bargarh": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "cotton",
+      "lentil",
+      "orange"
+    ],
+    "Bhadrak": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "muskmelon",
+      "orange",
+      "cotton",
+      "jute"
+    ],
+    "Bolangir": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "papaya"
+    ],
+    "Boudh": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "apple",
+      "mothbeans",
+      "mungbean",
+      "lentil",
+      "mango",
+      "cotton"
+    ],
+    "Cuttack": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "coffee"
+    ],
+    "Deogarh": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "lentil",
+      "orange"
+    ],
+    "Dhenkanal": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "papaya",
+      "jute"
+    ],
+    "Gajapati": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mothbeans"
+    ],
+    "Ganjam": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "lentil",
+      "banana",
+      "papaya",
+      "coffee"
+    ],
+    "Jagatsinghapur": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "coffee"
+    ],
+    "Jajapur": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "orange",
+      "jute"
+    ],
+    "Jharsuguda": [
+      "chickpea",
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "grapes",
+      "watermelon",
+      "muskmelon"
+    ],
+    "Kalahandi": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "orange",
+      "papaya"
+    ],
+    "Kendrapara": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean"
+    ],
+    "Keonjhar": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "muskmelon",
+      "apple",
+      "coconut"
+    ],
+    "Khurda": [
+      "chickpea",
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "watermelon",
+      "orange",
+      "coffee"
+    ],
+    "Koraput": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "orange"
+    ],
+    "Malkangiri": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram"
+    ],
+    "Mayurbhanja": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "cotton"
+    ],
+    "Nawarangpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "coffee"
+    ],
+    "Nayagarh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "pomegranate",
+      "banana",
+      "grapes",
+      "muskmelon"
+    ],
+    "Nuapada": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane"
+    ],
+    "Phulbani ( Kandhamal )": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "banana",
+      "apple",
+      "jute"
+    ],
+    "Puri": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "coconut"
+    ],
+    "Rayagada": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coconut",
+      "jute"
+    ],
+    "Sambalpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "orange"
+    ],
+    "Sonepur": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mothbeans",
+      "muskmelon"
+    ],
+    "Sundargarh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate"
+    ]
+  },
+  "Punjab": {
+    "Amritsar": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "sugarcane",
+      "pigeonpeas",
+      "watermelon",
+      "cotton"
+    ],
+    "Barnala": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "coffee",
+      "kidneybeans",
+      "lentil",
+      "pomegranate",
+      "muskmelon",
+      "papaya",
+      "cotton"
+    ],
+    "Bhatinda": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "papaya"
+    ],
+    "Faridkot": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coffee",
+      "orange",
+      "cotton",
+      "jute"
+    ],
+    "Fatehgarh Sahib": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "watermelon",
+      "papaya"
+    ],
+    "Fazilka": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "mothbeans",
+      "mungbean",
+      "lentil",
+      "banana",
+      "orange",
+      "jute"
+    ],
+    "Ferozpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "coconut"
+    ],
+    "Gurdaspur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "grapes",
+      "papaya",
+      "cotton"
+    ],
+    "Hoshiarpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mothbeans",
+      "jute"
+    ],
+    "Jalandhar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "cotton"
+    ],
+    "Kapurthala": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "blackgram",
+      "muskmelon",
+      "apple",
+      "papaya",
+      "cotton",
+      "jute"
+    ],
+    "Ludhiana": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "apple",
+      "papaya"
+    ],
+    "Mansa": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "cotton"
+    ],
+    "Moga": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "cotton",
+      "kidneybeans",
+      "mothbeans",
+      "blackgram",
+      "papaya",
+      "coconut"
+    ],
+    "Pathankot": [
+      "chickpea",
+      "rice",
+      "sugarcane",
+      "mungbean",
+      "papaya",
+      "coconut"
+    ],
+    "Patiala": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "muskmelon",
+      "coconut",
+      "pigeonpeas",
+      "mothbeans",
+      "mungbean",
+      "orange",
+      "jute"
+    ],
+    "Roopnagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mango"
+    ],
+    "S.A.S Nagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "kidneybeans",
+      "mungbean"
+    ],
+    "S.B.S Nagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "banana",
+      "muskmelon",
+      "apple",
+      "coconut",
+      "coffee"
+    ],
+    "Sangrur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "blackgram",
+      "cotton"
+    ],
+    "Shri Mukatsar Sahib": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "lentil",
+      "mango",
+      "coffee"
+    ],
+    "Taran Taran": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "sugarcane",
+      "mothbeans",
+      "maize",
+      "kidneybeans",
+      "muskmelon",
+      "coffee"
+    ]
+  },
+  "Rajasthan": {
+    "Ajmer": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "apple",
+      "jute"
+    ],
+    "Alwar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane"
+    ],
+    "Banswara": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane"
+    ],
+    "Baran": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "muskmelon",
+      "orange",
+      "coffee"
+    ],
+    "Barmer": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "kidneybeans",
+      "cotton"
+    ],
+    "Bharatpur": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "muskmelon",
+      "maize",
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "Bhilwara": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "banana",
+      "mango",
+      "grapes",
+      "coconut"
+    ],
+    "Bikaner": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "jute"
+    ],
+    "Bundi": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "pomegranate",
+      "muskmelon",
+      "coconut",
+      "cotton",
+      "jute"
+    ],
+    "Chittorgarh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coconut",
+      "blackgram",
+      "watermelon",
+      "cotton"
+    ],
+    "Churu": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut"
+    ],
+    "Dausa": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "muskmelon",
+      "coconut"
+    ],
+    "Dholpur": [
+      "rice",
+      "chickpea",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "muskmelon"
+    ],
+    "Dungarpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "mothbeans",
+      "coconut",
+      "cotton"
+    ],
+    "Ganganagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "banana",
+      "mango",
+      "grapes",
+      "coconut",
+      "coffee"
+    ],
+    "Hanumangarh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "maize",
+      "kidneybeans",
+      "lentil",
+      "pomegranate",
+      "grapes",
+      "muskmelon"
+    ],
+    "Jaipur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "apple",
+      "maize",
+      "blackgram",
+      "mango"
+    ],
+    "Jaisalmer": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "watermelon",
+      "papaya"
+    ],
+    "Jalore": [
+      "chickpea",
+      "pearl_millet",
+      "groundnut",
+      "kidneybeans"
+    ],
+    "Jhalawar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "maize",
+      "mungbean",
+      "lentil",
+      "muskmelon"
+    ],
+    "Jhunjhunu": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "kidneybeans",
+      "apple"
+    ],
+    "Jodhpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "blackgram"
+    ],
+    "Karoli": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "cotton",
+      "jute"
+    ],
+    "Kota": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "muskmelon"
+    ],
+    "Nagaur": [
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "banana",
+      "watermelon",
+      "muskmelon",
+      "apple"
+    ],
+    "Pali": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "muskmelon"
+    ],
+    "Pratapgarh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "orange"
+    ],
+    "Rajsamand": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mungbean",
+      "lentil",
+      "watermelon",
+      "papaya"
+    ],
+    "Sikar": [
+      "chickpea",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "papaya"
+    ],
+    "Sirohi": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "orange",
+      "cotton"
+    ],
+    "Swami Madhopur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "pomegranate",
+      "mango",
+      "grapes"
+    ],
+    "Tonk": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "blackgram"
+    ],
+    "Udaipur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate"
+    ]
+  },
+  "Tamil Nadu": {
+    "Ariyalur": [
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "orange"
+    ],
+    "Chengalpattu MGR / Kancheepuram": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "watermelon"
+    ],
+    "Chennai": [
+      "rice",
+      "wheat",
+      "maize",
+      "pigeonpeas",
+      "apple",
+      "cotton"
+    ],
+    "Chidambanar / Toothukudi": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "kidneybeans",
+      "watermelon"
+    ],
+    "Coimbatore": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "jute",
+      "lentil",
+      "mango",
+      "apple",
+      "papaya"
+    ],
+    "Dharmapuri": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "papaya",
+      "cotton"
+    ],
+    "Dindigul Anna": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "coffee"
+    ],
+    "Kanyakumari": [
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "orange",
+      "jute"
+    ],
+    "Karur": [
+      "rice",
+      "chickpea",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "grapes",
+      "watermelon"
+    ],
+    "Krishnagiri": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans"
+    ],
+    "Madurai": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "mango",
+      "muskmelon",
+      "apple",
+      "cotton"
+    ],
+    "Nagapattinam": [
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "banana",
+      "orange"
+    ],
+    "Namakkal": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "apple",
+      "coffee"
+    ],
+    "North Arcot / Vellore": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "pomegranate",
+      "grapes",
+      "muskmelon",
+      "orange",
+      "papaya"
+    ],
+    "Perambular": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane"
+    ],
+    "Periyar (Erode)": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "apple",
+      "papaya",
+      "coconut"
+    ],
+    "Pudukkottai": [
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mungbean",
+      "blackgram",
+      "mango"
+    ],
+    "Ramananthapuram": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "pomegranate"
+    ],
+    "Salem": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pomegranate",
+      "banana"
+    ],
+    "Sivagangai / Pasumpon": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "muskmelon",
+      "jute"
+    ],
+    "South Arcot / Cuddalore": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pigeonpeas",
+      "papaya",
+      "jute"
+    ],
+    "Thanjavur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana"
+    ],
+    "The Nilgiris": [
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "chickpea",
+      "kidneybeans",
+      "mango",
+      "watermelon"
+    ],
+    "Theni": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "grapes",
+      "watermelon",
+      "papaya"
+    ],
+    "Thirunelveli": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mungbean",
+      "watermelon",
+      "orange",
+      "coconut"
+    ],
+    "Thiruppur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "pigeonpeas",
+      "lentil",
+      "banana",
+      "grapes",
+      "apple"
+    ],
+    "Thiruvallur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "blackgram",
+      "orange"
+    ],
+    "Thiruvannamalai": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mango",
+      "orange",
+      "coconut"
+    ],
+    "Tiruchirapalli / Trichy": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "grapes",
+      "coffee"
+    ],
+    "Tiruvarur": [
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "banana",
+      "mango",
+      "apple",
+      "orange",
+      "jute"
+    ],
+    "Villupuram": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mango",
+      "muskmelon"
+    ],
+    "Virudhunagar / Kamarajar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "pigeonpeas",
+      "watermelon"
+    ]
+  },
+  "Telangana": {
+    "Adilabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "coconut",
+      "jute"
+    ],
+    "Hyderabad": [
+      "rice",
+      "chickpea",
+      "pomegranate",
+      "muskmelon",
+      "papaya",
+      "coconut"
+    ],
+    "Karimnagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "blackgram",
+      "pomegranate",
+      "coconut"
+    ],
+    "Khammam": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "pomegranate",
+      "mango",
+      "watermelon"
+    ],
+    "Mahabubnagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pomegranate",
+      "apple",
+      "coffee"
+    ],
+    "Medak": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "muskmelon",
+      "cotton",
+      "jute"
+    ],
+    "Nalgonda": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mungbean",
+      "lentil",
+      "banana",
+      "papaya"
+    ],
+    "Nizamabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes"
+    ],
+    "Rangareddy": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "watermelon",
+      "muskmelon",
+      "papaya",
+      "coconut"
+    ],
+    "Warangal": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pomegranate"
+    ]
+  },
+  "Uttar Pradesh": {
+    "Agra": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "blackgram",
+      "coconut"
+    ],
+    "Aligarh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "coconut"
+    ],
+    "Allahabad": [
+      "rice",
+      "chickpea",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "watermelon",
+      "cotton",
+      "jute"
+    ],
+    "Ambedkar Nagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "mothbeans",
+      "coconut"
+    ],
+    "Amethi/C.S.M. Nagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "pomegranate",
+      "banana",
+      "papaya"
+    ],
+    "Amroha/J.B.Fulenagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mango",
+      "muskmelon",
+      "papaya"
+    ],
+    "Auraiya": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "coconut"
+    ],
+    "Azamgarh": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "watermelon"
+    ],
+    "Bagpat": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "banana",
+      "watermelon",
+      "coffee"
+    ],
+    "Bahraich": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "blackgram",
+      "pomegranate",
+      "apple",
+      "orange",
+      "jute"
+    ],
+    "Ballia": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mungbean",
+      "mango",
+      "jute",
+      "coffee"
+    ],
+    "Balrampur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "apple",
+      "orange",
+      "coconut"
+    ],
+    "Banda": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "lentil"
+    ],
+    "Barabanki": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "pigeonpeas",
+      "cotton"
+    ],
+    "Bareilly": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "apple",
+      "orange",
+      "coffee"
+    ],
+    "Basti": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane"
+    ],
+    "Bijnor": [
+      "rice",
+      "chickpea",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane"
+    ],
+    "Budaun": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coffee",
+      "pigeonpeas",
+      "orange"
+    ],
+    "Buland Shahar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean"
+    ],
+    "Chandauli": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "lentil",
+      "mango"
+    ],
+    "Chitrakoot": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "blackgram",
+      "orange",
+      "cotton",
+      "jute"
+    ],
+    "Deoria": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "banana",
+      "jute"
+    ],
+    "Etah": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "pomegranate"
+    ],
+    "Etawah": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "orange",
+      "muskmelon",
+      "coconut"
+    ],
+    "Faizabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "watermelon",
+      "kidneybeans",
+      "mothbeans",
+      "lentil",
+      "banana",
+      "coconut"
+    ],
+    "Farrukhabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "orange",
+      "coconut",
+      "coffee"
+    ],
+    "Fatehpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "pomegranate",
+      "grapes",
+      "watermelon"
+    ],
+    "Firozabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "coffee"
+    ],
+    "G.B.Nagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "pigeonpeas",
+      "kidneybeans",
+      "mungbean",
+      "blackgram",
+      "watermelon",
+      "muskmelon",
+      "apple",
+      "orange"
+    ],
+    "Ghaziabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "sugarcane",
+      "pomegranate",
+      "jute"
+    ],
+    "Ghazipur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "banana",
+      "jute"
+    ],
+    "Gonda": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "maize",
+      "jute"
+    ],
+    "Gorakhpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane"
+    ],
+    "Hamirpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "orange",
+      "jute"
+    ],
+    "Hapur": [
+      "rice",
+      "pearl_millet",
+      "sugarcane",
+      "maize",
+      "banana",
+      "cotton"
+    ],
+    "Hardoi": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "lentil",
+      "orange",
+      "coconut"
+    ],
+    "Hathras": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "cotton"
+    ],
+    "Jalaun": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "pomegranate",
+      "muskmelon",
+      "apple",
+      "orange"
+    ],
+    "Jaunpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "lentil",
+      "banana",
+      "muskmelon"
+    ],
+    "Jhansi": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coffee"
+    ],
+    "Kannauj": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "muskmelon",
+      "coconut",
+      "cotton"
+    ],
+    "Kanpur Dehat": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "muskmelon"
+    ],
+    "Kanpur Nagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mungbean",
+      "muskmelon",
+      "coconut"
+    ],
+    "Kasganj/Khansi Ram Nagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil"
+    ],
+    "Kheri": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "maize",
+      "papaya"
+    ],
+    "Kushambi": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "muskmelon",
+      "apple",
+      "jute"
+    ],
+    "Kushi Nagar / Padrauna": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "lentil",
+      "apple",
+      "coffee"
+    ],
+    "Lalitpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "mungbean",
+      "apple"
+    ],
+    "Lucknow": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "kidneybeans",
+      "mungbean",
+      "banana",
+      "mango",
+      "orange",
+      "coconut",
+      "jute"
+    ],
+    "Mahoba": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram"
+    ],
+    "Mahrajgani": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "Mainpuri": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "blackgram",
+      "apple",
+      "orange",
+      "coconut"
+    ],
+    "Mathura": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "maize",
+      "mango",
+      "papaya"
+    ],
+    "Mau": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coconut",
+      "banana"
+    ],
+    "Meerut": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "sugarcane",
+      "mungbean",
+      "banana",
+      "coffee"
+    ],
+    "Mirzpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "muskmelon",
+      "papaya"
+    ],
+    "Moradabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil"
+    ],
+    "Muzaffarnagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mango"
+    ],
+    "Pilibhit": [
+      "rice",
+      "chickpea",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "orange"
+    ],
+    "Pratapgarh": [
+      "rice",
+      "chickpea",
+      "pearl_millet",
+      "sugarcane",
+      "mango",
+      "grapes",
+      "watermelon",
+      "apple",
+      "orange",
+      "papaya"
+    ],
+    "Rae-Bareily": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "apple",
+      "papaya",
+      "coconut"
+    ],
+    "Rampur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "mothbeans",
+      "pomegranate",
+      "mango",
+      "papaya"
+    ],
+    "Saharanpur": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pigeonpeas"
+    ],
+    "Sambhal": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pomegranate",
+      "banana",
+      "mango",
+      "apple"
+    ],
+    "Santh Kabir Nagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pigeonpeas",
+      "mothbeans",
+      "lentil",
+      "pomegranate",
+      "banana",
+      "coffee"
+    ],
+    "Santh Ravi Das Nagar / Bhadoi": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "grapes",
+      "apple",
+      "cotton",
+      "jute"
+    ],
+    "Shahjahanpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "grapes",
+      "muskmelon",
+      "coconut",
+      "jute"
+    ],
+    "Shamli": [
+      "rice",
+      "chickpea",
+      "sugarcane",
+      "blackgram"
+    ],
+    "Shravasti": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "jute",
+      "maize",
+      "banana",
+      "grapes"
+    ],
+    "Sidharthnagar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mothbeans",
+      "mungbean",
+      "grapes",
+      "apple",
+      "jute"
+    ],
+    "Sitapur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "muskmelon",
+      "kidneybeans",
+      "blackgram",
+      "banana",
+      "mango",
+      "watermelon",
+      "orange",
+      "coffee"
+    ],
+    "Sonbhadra": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "lentil",
+      "mango",
+      "orange",
+      "papaya"
+    ],
+    "Sultanpur": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "mango",
+      "grapes",
+      "apple",
+      "cotton",
+      "jute"
+    ],
+    "Unnao": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pigeonpeas",
+      "pomegranate",
+      "papaya",
+      "coconut"
+    ],
+    "Varanasi": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "blackgram",
+      "grapes"
+    ]
+  },
+  "Uttarakhand": {
+    "Almorah": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coffee"
+    ],
+    "Bageshwar": [
+      "rice",
+      "chickpea",
+      "maize",
+      "muskmelon",
+      "apple"
+    ],
+    "Chamoli": [
+      "rice",
+      "chickpea",
+      "lentil",
+      "banana",
+      "muskmelon",
+      "apple",
+      "cotton"
+    ],
+    "Champavat": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "mango",
+      "papaya"
+    ],
+    "Dehradun": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "orange"
+    ],
+    "Garhwal": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mango",
+      "maize",
+      "apple"
+    ],
+    "Haridwar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "banana"
+    ],
+    "Nainital": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "papaya",
+      "lentil"
+    ],
+    "Pithorgarh": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "pomegranate",
+      "mango",
+      "muskmelon"
+    ],
+    "Rudraprayag": [
+      "rice",
+      "chickpea",
+      "kidneybeans",
+      "pomegranate"
+    ],
+    "Tehri Garhwal": [
+      "chickpea",
+      "rice",
+      "sugarcane",
+      "mango"
+    ],
+    "Udham Singh Nagar": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "pigeonpeas",
+      "orange",
+      "cotton"
+    ],
+    "Uttar Kashi": [
+      "rice",
+      "chickpea",
+      "kidneybeans",
+      "grapes"
+    ]
+  },
+  "West Bengal": {
+    "24-Paraganas North": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "banana",
+      "blackgram",
+      "apple",
+      "coffee"
+    ],
+    "24-Paraganas South": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "lentil",
+      "muskmelon",
+      "papaya"
+    ],
+    "Alipurduar": [
+      "rice",
+      "wheat",
+      "maize",
+      "mothbeans",
+      "mango",
+      "cotton"
+    ],
+    "Bankura": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "coffee",
+      "pomegranate",
+      "jute"
+    ],
+    "Birbhum": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "papaya"
+    ],
+    "Burdwan": [
+      "chickpea",
+      "rice",
+      "pearl_millet",
+      "groundnut",
+      "sugarcane",
+      "cotton",
+      "jute"
+    ],
+    "Cooch Behar": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "mungbean",
+      "mango",
+      "jute"
+    ],
+    "Dakshin Dinajpur": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "orange"
+    ],
+    "Darjeeling": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane"
+    ],
+    "East Midnapore / Purba Midnapore": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mango"
+    ],
+    "Hooghly": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans",
+      "blackgram",
+      "pomegranate",
+      "grapes",
+      "papaya"
+    ],
+    "Jalpaiguri": [
+      "chickpea",
+      "rice",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "pomegranate",
+      "grapes",
+      "jute"
+    ],
+    "Jhargram": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "maize",
+      "lentil",
+      "mango"
+    ],
+    "Malda": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans"
+    ],
+    "Murshidabad": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "lentil",
+      "banana",
+      "orange"
+    ],
+    "Nadia": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mungbean",
+      "pomegranate",
+      "orange",
+      "coconut"
+    ],
+    "Purulia": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "mothbeans"
+    ],
+    "Uttar Dinajpur": [
+      "rice",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "kidneybeans",
+      "mungbean"
+    ],
+    "West Midnapore": [
+      "rice",
+      "pearl_millet",
+      "chickpea",
+      "groundnut",
+      "sugarcane",
+      "blackgram",
+      "jute",
+      "grapes",
+      "coffee"
+    ]
+  }
+}
