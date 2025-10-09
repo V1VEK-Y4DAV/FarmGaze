@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# FarmGaze
+# FarmGaze a farmer based web
 =======
 # Welcome to your Lovable project
 
