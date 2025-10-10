@@ -121,4 +121,4 @@ A user-friendly dashboard that displays:
 ## 👨‍🌾 Purpose
 
 Built with the mission to empower farmers, reduce resource wastage, and drive the future of sustainable agriculture through AI and data.
->>>>>>> b5817b6ef205dedd0e1b8bc88b6bf343b18138b1
+
